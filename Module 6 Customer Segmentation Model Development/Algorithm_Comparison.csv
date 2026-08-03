@@ -1,0 +1,5 @@
+Algorithm,Silhouette Score,Davies-Bouldin Index,Number of Clusters,Training Time,Interpretability,Stability
+K-Means,0.23799484298037485,1.5872862999466617,2,Not Recorded,High,High
+Hierarchical,0.23799484298037485,1.5872862999466617,2,Not Recorded,Medium,High
+Gaussian Mixture,0.24486265213195726,1.561108849680784,2,Not Recorded,Medium,Medium
+DBSCAN,,N/A,0,Not Recorded,Low,Low
