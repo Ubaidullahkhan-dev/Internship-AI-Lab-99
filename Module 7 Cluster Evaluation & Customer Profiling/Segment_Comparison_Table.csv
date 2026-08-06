@@ -1,0 +1,3 @@
+Cluster,Income,Customer_Age,Total_spending,Recency,Family_size,NumWebPurchases,NumStorePurchases,NumCatalogPurchases
+0,0.67,0.18,0.81,0.01,-0.32,0.66,0.71,0.73
+1,-0.8,-0.2,-0.97,-0.02,0.38,-0.78,-0.86,-0.88
