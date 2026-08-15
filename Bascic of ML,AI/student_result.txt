@@ -1,0 +1,4 @@
+Student Result
+Name: Ali
+Average: 85.25
+Grade: A
